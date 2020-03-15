@@ -28,7 +28,7 @@ In Practice
 6. Interpreting coefficients
 7. Sensitive analysis (assumption)
 
-Benifits
+Benefits
 1. Identification of gaps
 2. Assumptions 
 3. Well-defined description of business process
