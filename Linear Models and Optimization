@@ -1,0 +1,60 @@
+linear model
+y = mx + b
+
+if x goes up by 1 unit y goes up by m units
+
+Interpretation 
+
+Cost function
+	C = 100 + 30q
+
+Total Cost = (b = fixed cost) + Rate variable cost
+
+Time to produce
+T = 2 + 0.25q
+Total Time = setup time + work rate
+b = setup time
+m = work rate
+
+
+Linear programming (LP)
+1. for optimization problems
+2. incorporate constraints
+
+Growth in discrete time
+1. No. of customers at time t
+2. Revenue in quarter q
+3. Value of investment
+
+linear (additive) growth vs proportionate 
+
+simple interest(linear) vs compound interest(exponential)
+
+Constant multiplier
+if increase of 5% then 1.05
+if decrease of 5% then 0.95
+
+Rounding
+
+Sum of geometric series is a quantitative formula
+s(t) = P(0) * ((1-theta^t+1)/(1-theta))
+
+Present and future value
+Time value of money
+
+Uses of present value
+1. discounting invetments
+2. Annuity - fixed payments over a specified and finite time period
+3. Lifetime customer value
+
+Countinuous compounding
+P(t) = P(0) e^rt r= R/100
+
+
+Optimization
+Demand Model
+Brute force approach
+Calculus approach
+
+
+
