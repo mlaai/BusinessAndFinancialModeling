@@ -1,0 +1,16 @@
+Regression Model
+
+linear regression
+E(Y|X) = b0 + b1X
+
+Correlation -1<= r <=1
+
+Predictive analytics
+Prediction interval
+Prospecting for opportunities
+Method of least squares - minimizes the sum of squares of vertical distance from points to the line
+
+1. decompose the data, line and residual
+
+R^2 - variability in Y
+Root mean squared error - spread of points about the fitted regression line
