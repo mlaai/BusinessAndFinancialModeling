@@ -1,0 +1,66 @@
+Probabilistic Models
+
+Random variables 
+Probability distribution
+
+1. Incorporate uncertainity
+2. Quantifying risks
+
+Regression model
+1. Works on data
+2. Reverse engineer on data
+3. Data as input , best fitting line
+4. less noise more precise
+
+Probability trees
+1. Notice program
+	First Alert - 90% Infringe 10% Stop infringe
+	Second Alert = 85%, 15%
+	Third Alert = 80%, 20%
+
+P(Stop Infringing) = 1*0.1 + 0.9*0.15 + 0.9*0.85*0.2 
+
+
+Monte Carlo simulation
+
+Q = 60000*Price^-2.5
+p(opt) = c*b/(1+b)
+
+Markov model
+1. discrete time state space transitions
+2. Probability transition matrix
+
+Building blocks of probability models
+1. Discrete Random variables
+2. Continuous random variable
+	percent change
+mean
+variance
+standard deviation
+
+Bernoulli Distribution
+
+Success = 1 ; Failure = 0
+mean = E(X) = 1*p + 0 * (1-p) = p
+variance = E(X - mean)^2 = ((1-p)^2)*p + ((0-p)^2)*(1-p) = p(1-p)
+standard deviation = sqrt(p(1-p))
+
+Binomial Distribution
+independent Bernoulli Trials
+P(AandB) = P(A) * P(B)
+
+binomial coefficient = n!/x!(n-x)!
+
+P(X=x) = binomial coefficent * p^x * (1-p)^(n-x)
+
+Normal Distribution (bell curve)
+mean and standard distribution
+
+
+Empirical Rule for normal distribution
+one standard deviation = 68%
+two standard deviation = 95%
+three standard deviation = 99.7%
+
+
+
